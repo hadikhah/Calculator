@@ -12,11 +12,11 @@ import KeyPadProvider from './components/KeyPadProvider'
  *  
  */
 export default function App() {
-  const [history, setHistory] = ('4')
+  // const [history, setHistory] = useState('')
   const [input, setInput] = useState('0')
   const [keys] = useState([
-    ['AC', 'Dell', '/'],
-    ['7', '8', '9', '*'],
+    ['AC', 'Dell', '%', '÷'],
+    ['7', '8', '9', '×'],
     ['4', '5', '6', '-'],
     ['1', '2', '3', '+'],
     ['0', '00', '.', '='],
