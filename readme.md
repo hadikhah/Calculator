@@ -1,2 +1,2 @@
 # Simple calculator app using react native
-[see online simulator]("https://snack.expo.io/@hadikhah/simple-calculator")
+take a look at it in the online simulator : https://snack.expo.io/@hadikhah/simple-calculator
